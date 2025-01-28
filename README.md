@@ -6,13 +6,14 @@ Python, web : plutôt bon, node.js : débutant
 
 # Portfolio
 
-Je suis fondateur du pcnmg (pcnmg.fr).
+Je suis un des fondateur du pcnmg 
 
 Propriétaire de pcnmg.fr
 
-# Me contacter
+<a href="https://pcnmg.fr">pcnmg.fr</a>
 
-Mail : swixixu@gmail.com
-Discord : (@swixixu)
+# truc en vrac :
+
+Mon discord : @swixixu
 
 
