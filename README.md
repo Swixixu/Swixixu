@@ -10,7 +10,7 @@ Je suis un des fondateur du pcnmg
 
 Propriétaire de pcnmg.fr
 
-<a href="https://pcnmg.fr">pcnmg.fr</a>
+<a href="https://pcnmg.fr"><button>pcnmg.fr</button></a>
 
 # truc en vrac :
 
