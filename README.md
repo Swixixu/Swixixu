@@ -1,5 +1,6 @@
 Hey 👋, moi c'est Swixixu !
 
+Since 5 May 2025
 ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Swixixu&theme=tokyonight\&layout=compact)
 
 ## 🌐 Socials:
